@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo Estrada Uw_U</h1>
+<h1 align="center">Hi 👋, I'm Eduardo Estrada UwU</h1>
 <h3 align="center">A passionate developer based in Santander, Spain.</h3>
 
 - 🎓 I’m currently studying Computer Science at [Universidad Europea del Atlántico](https://www.uneatlantico.es/)
